@@ -1,2 +1,3 @@
 # hello_world
-new account
+New account.
+Looking forward to it.
